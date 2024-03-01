@@ -31,7 +31,7 @@ export default function Home() {
       <h1>Chat Room</h1>
       <p>
         <b>Simple</b> chat room. <br />
-        <b>Share</b> room's link with others. <br />
+        <b>Share</b> rooms link with others. <br />
         <b>Deleted</b> after 24 hours. <br />
         <b>No</b> sign-up.
       </p>
